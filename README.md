@@ -27,6 +27,10 @@
 
 ### vCenter Server 7 Standard:
 - MA6NU-6RL07-484V8-WA1XP-87ALF
+- HC6X2-2539L-M8DY1-82370-9Z0PD
+
+### vCenter Server 7 Essentials:
+- 1V6JU-AQHDH-H8570-N01X2-8P8M8
 
 ### vSphere 7 Enterprise Plus with Add-on for Kubernetes:
 - J1608-4GJEQ-071L8-9VA0H-2MUK6
@@ -49,6 +53,9 @@
 ### vCenter 8 Standard:
 - 4F282-0MLD2-M8869-T89G0-CF240
 - 0F41K-0MJ4H-M88U1-0C3N0-0A214
+
+### vSAN 8 Enterprise Plus:
+- MG292-08L9K-48078-KJ372-27K20
 
 ## VMware Workstation Pro 17.x.x
 - JU090-6039P-08409-8J0QH-2YR7F 
