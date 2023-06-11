@@ -57,6 +57,9 @@
 ### vSAN 8 Enterprise Plus:
 - MG292-08L9K-48078-KJ372-27K20
 
-## VMware Workstation Pro 17.x.x
+### VMware Workstation Pro 17.x.x
 - JU090-6039P-08409-8J0QH-2YR7F 
 - MC60H-DWHD5-H80U9-6V85M-8280D
+
+### VMware Fusion Pro 12
+- YF390-0HF8P-M81RQ-2DXQE-M2UT6
